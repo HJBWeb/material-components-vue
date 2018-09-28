@@ -98,7 +98,7 @@ export default {
       }
     },
     onNavigation () {
-      this.$emit('onNavigation')
+      this.$emit('on-navigation')
     }
   }
 }
