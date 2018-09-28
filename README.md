@@ -1,3 +1,5 @@
+# Modified to fix an event name
+
 <p align="center">
   <a href="https://matsp.github.io/material-components-vue" target="_blank">
     <img width="280" src="https://raw.githubusercontent.com/matsp/material-components-vue/master/docs/.vuepress/public/assets/images/mcv-hero.png" alt="logo">
